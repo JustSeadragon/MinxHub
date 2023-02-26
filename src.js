@@ -6,3 +6,4 @@ function askAPI(ask) {
   ask = prompt("Test?");
   alert(ask);
 }
+askAPI();
