@@ -1,5 +1,5 @@
 # MinxHub
-This is software you buy a token to access no ads even if the website has an Anti-AdBlocker. 
+This is software you buy a token to access no ads even if the website has an Anti-AdBlocker and also block unnecessary cookie popups. 
 
 # Features and Updates
 2/26/23 - MinxHub made.                                   
