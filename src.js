@@ -4,6 +4,10 @@ let sm1 = "MinxHub has been executed.";
 alert(sm1);
 function getToken(token) {
   token = prompt("API Token?");
-  if token == "TWlueEh1YkFQSVRva2Vu"
+  if token == "TWlueEh1YkFQSVRva2Vu" {
+    alert("Logging in!")
+  } else {
+    alert("Invalid token!")
+  }
 }
 askAPI();
