@@ -1,6 +1,6 @@
 # MinxHub
-API for some stuff I made. Open-source, you can use it without crediting me..
-Use src file to your own liking.
+This is software you buy a token to access no ads even if the website has an Anti-AdBlocker. 
 
 # Features and Updates
-None yet.
+2/26/23 - MinxHub made.
+2/26/23 - Base code in making..
