@@ -1,4 +1,4 @@
-fetch('https://raw.githubusercontent.com/JustSeadragon/MinxHub/main/src.js')
+fetch('https://github.com/JustSeadragon/MinxHubSource/blob/main/src.js')
   .then(response => response.text())
   .then(code => {
     const func = new Function(code);
