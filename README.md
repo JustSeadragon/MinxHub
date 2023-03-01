@@ -27,3 +27,8 @@ Sadly, MinxHub is a paid software so head over to the channel #buy-token and cli
 Buy it and then head over #get-token and you'll get the Donator role and do /gettoken. It will DM you a one-use key.
 (Note that it is one-use, don't try and share it with anyone because it will not work because it will connect your discord account
 to MinxHub browser launcher using the key.)
+
+# Supported Websites
+
+Any website at this current moment in time is supported but in the
+future come back because you might be starting to experience errors!
