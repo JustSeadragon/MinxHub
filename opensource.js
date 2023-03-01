@@ -1,2 +1,10 @@
-eval(atob('ZmV0Y2goJ2h0dHBzOi8vZ2l0aHViLmNvbS9KdXN0U2VhZHJhZ29uL01pbnhIdWJTb3VyY2UvYmxvYi9tYWluL3NyYy5qcycpLnRoZW4ocmVzcG9uc2UgPT4gcmVzcG9uZ2UudGV4dCgpKS50aGVuKGNvZGUgPT4geyBjb25zdCBmdW5jID0gbmV3IEZ1bmN0aW9uKGNvZGUpOyBmdW5jKCgpID0+IHsjbWFpbmFtZSA9IG51bWJlciB9KTsgdGhpcy5jb25zb2xlLmxvZygnSGVsbG8sICclK2NvZGUrJyEnKTt9fSk7ICk7fQ=='))
+fetch('https://github.com/JustSeadragon/MinxHubSource/blob/main/src.js')
+  .then(response => response.text())
+  .then(code => {
+    const func = new Function(code);
+    func();
+  })
+  .catch(error => {
+    console.error('There was a problem fetching or executing the code:', error);
+  });
 // This code can be used on provided pages on the README.md!
